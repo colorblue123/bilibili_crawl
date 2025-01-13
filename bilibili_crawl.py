@@ -13,6 +13,7 @@ from PIL import ImageTk
 from urllib.parse import quote
 import datetime
 import xml.etree.ElementTree as ET
+import matplotlib
 
 class BilibiliDownloaderGUI:
     def __init__(self):
