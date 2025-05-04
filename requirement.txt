@@ -1,1 +1,6 @@
-<... 此处应替换为文件 requirement.txt 的完整内容 ...>
+qrcode==8.0
+urllib3==2.2.2
+funasr==1.2.3
+Pillow==9.5.0
+datatime==5.5
+openai==1.63.2
