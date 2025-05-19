@@ -5,10 +5,11 @@
 
 ## 2.安装
 
-执行下面命令来安装依赖
+执行下面命令来安装依赖，并自动下载模型到当前用户
 
 ```python
 pip install -r requirements.txt
+python download_model.py
 ```
 
 此外还需要安装 torch，可以到 torch 官方中根据自己电脑情况安装不同版本的 torch
