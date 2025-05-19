@@ -1,0 +1,10 @@
+qrcode==8.0
+urllib3==2.2.2
+Pillow==9.5.0
+datatime==5.5
+openai==1.63.2
+matplotlib==3.7.5
+wordcloud==1.9.4
+pydub==0.25.1
+ffmpeg-python==0.2.0
+modelscope==1.21.3
